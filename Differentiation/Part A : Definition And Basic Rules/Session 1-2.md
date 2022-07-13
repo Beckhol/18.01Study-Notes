@@ -36,13 +36,7 @@ Tangent line = limit of secant line PQ as Q -> P(P is fixed)
 $f(x) = \frac{1}{x}$ 
 
 <img src="image-20220713173034781.png" alt="image-20220713173034781" style="zoom:80%;" />
-$$
-\begin{align}
-\frac{\Delta f}{\Delta x} &= \frac{f(x_0+\Delta x)-f(x_0)}{\Delta x}
-                        \\&= \frac {\frac{1}{x_0+\Delta x}-\frac{1}{x_0}}{\Delta x}
-                        \\&= \frac {-1}{(x_0 + \Delta x)}
-\end{align}
-$$
+<img src="image.png" alt="image" style="zoom:80%;" />
 Next, we see what happens to the slopes of the secant lines as $\Delta x$ tends to zero:
 
 $f'(x) = \lim \Delta x \to 0 \frac {\Delta f}{\Delta x} = \lim \Delta x \to 0 \frac{-1}{(x_0)(x_0+\Delta x)} = \frac {-1}{x_0^2} $, so $f'(x) < 0$ means that it is a negative slope

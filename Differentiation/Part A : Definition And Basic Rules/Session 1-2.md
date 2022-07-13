@@ -45,7 +45,7 @@ $f'(x) = \lim \Delta x \to 0 \frac {\Delta f}{\Delta x} = \lim \Delta x \to 0 \f
 
 ### Example 2
 
-$f(x) = x ^n $ where n = 1,2,3...
+$f(x) = x ^n$ where n = 1,2,3...
 
 What is $\frac{d}{dx} x ^n?$
 

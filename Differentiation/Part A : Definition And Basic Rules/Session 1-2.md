@@ -1,16 +1,24 @@
 # Session 1-2
 
-## What is a derivative?
+## Outline
+这两个章节的内容比较的简单易懂。需要搞明白的概念如下： 
+
+- 什么是导数，在几何意义上，在物理意义上以及导数对所有方法的重要性？
+  - 在几何意义上,表示函数曲线在点$P_0(x_0,f(x_0))$处的切线的斜率
+  - 在物理意义上,一阶导数的物理意义:切线斜率变化的速度,表示的是一阶导数的变化率。
+- 如何对任何数求导呢？
+  - 参考第三与第四点。
+## 1.What is a derivative?
 
 - geometric interpretation
 - physical interpretation
 - Importance of derivatives to **all** measurements
 
-## How to differentiate anything?
+## 2.How to differentiate anything?
 
 $\frac{dy}{dx} e^{xtanx} =?$
 
-## Geometric Interpretation
+## 3.Geometric Interpretation
 
 Finding the **tangent line(切线)** to $y = f(x)$  at $P = (x_0,y_0)$
 
@@ -41,7 +49,7 @@ Next, we see what happens to the slopes of the secant lines as $\Delta x$ tends 
 
 $f'(x) = \lim \Delta x \to 0 \frac {\Delta f}{\Delta x} = \lim \Delta x \to 0 \frac{-1}{(x_0)(x_0+\Delta x)} = \frac {-1}{x_0^2} $, so $f'(x) < 0$ means that it is a negative slope
 
-## More Notations
+## 4.More Notations
 
 ### Example 2
 

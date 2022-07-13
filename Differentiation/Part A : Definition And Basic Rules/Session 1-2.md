@@ -16,7 +16,7 @@ Finding the **tangent line(切线)** to $y = f(x)$  at $P = (x_0,y_0)$
 
 Tangent line = limit of secant line PQ as Q -> P(P is fixed)
 
-> <img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220713170138936.png" alt="image-20220713170138936" style="zoom:80%;" />
+> <img src="image-20220713170138936.png" alt="image-20220713170138936" style="zoom:80%;" />
 >
 > $y - y_0 = m (x - x_0)$ ; 
 >
@@ -35,7 +35,7 @@ Tangent line = limit of secant line PQ as Q -> P(P is fixed)
 
 $f(x) = \frac{1}{x}$ 
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220713173034781.png" alt="image-20220713173034781" style="zoom:80%;" />
+<img src="image-20220713173034781.png" alt="image-20220713173034781" style="zoom:80%;" />
 $$
 \begin{align}
 \frac{\Delta f}{\Delta x} &= \frac{f(x_0+\Delta x)-f(x_0)}{\Delta x}

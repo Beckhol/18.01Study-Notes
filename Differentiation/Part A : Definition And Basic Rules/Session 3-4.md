@@ -1,6 +1,10 @@
 # Session 3-4
 
 ## Outline
+两章需要掌握的重点有三个。
+- rate of change
+- Limits
+- Continuity
 
 ## 1.Rate of Change
 

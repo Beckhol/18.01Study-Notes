@@ -2,7 +2,7 @@
 
 ## Outline
 
-## Rate of Change
+##1.Rate of Change
 
 $y = f(x)$, if changing x at a certain rate causes y to change, we're interested in the ***relative*** rate of change, $\frac{\Delta y}{\Delta x}$
 
@@ -14,7 +14,7 @@ Another way to think about $\frac{\Delta y}{\Delta x}$is as the ***average*** ch
 
 measures the instantaneous rate of change, or the speed. 
 
-## Limits
+##2.Limits
 
 ### Example1
 
@@ -48,7 +48,7 @@ The right hand limit $\lim x \to 0^+ f(x)$ equals 1
 
 The left hand limit $\lim x \to x_0^- f(x)$ is found by looking at values of f(x) when x is less than $x_0$ , For this function, equals 0.
 
-## Continuity
+##3.Continuity
 
 Definition: A function $f$ is continuous at $x_0$ if $\lim x \to x_0 f(x) = f(x_0)$ .
 

@@ -6,7 +6,7 @@
 
 $y = f(x)$, if changing x at a certain rate causes y to change, we're interested in the ***relative*** rate of change, $\frac{\Delta y}{\Delta x}$
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220714094757242.png" alt="image-20220714094757242" style="zoom:80%;" />
+<img src="image-20220714094757242.png" alt="image-20220714094757242" style="zoom:80%;" />
 
 Another way to think about $\frac{\Delta y}{\Delta x}$is as the ***average*** change in y over an interval of size $\Delta x$. In this case, the limit 
 

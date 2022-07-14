@@ -11,6 +11,9 @@
   - left-hand limit
   - right-hand limit
 - Continuity
+  1. 函数在该点的左右存在极限值
+  2. 函数在该点处有定义
+  3. 极限值等于函数值 $f(x_0)$
 
 ## 1.Rate of Change
 

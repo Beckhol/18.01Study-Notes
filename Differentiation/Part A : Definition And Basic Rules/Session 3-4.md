@@ -32,7 +32,7 @@ $\Delta x = 0$ is not allowed. The limit $x \to x_0$ is computed under the impli
 
 Other "hard" limits would be:
 
-​										$\lim x \to -1 \frac{x^2+x}{x+1}$ and $\lim x \to \infin \frac{x^2 + x}{x + 1}$
+​										$\lim x \to -1 \frac{x^2+x}{x+1}$ and $\lim x \to \infty \frac{x^2 + x}{x + 1}$
 
 To complete the discussion of limits, we need just one more piece of notation, and concepts of **left hand and right hand limits.**
 

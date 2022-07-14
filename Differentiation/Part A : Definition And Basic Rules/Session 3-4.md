@@ -3,7 +3,13 @@
 ## Outline
 两章需要掌握的重点有三个。
 - rate of change
+  - relative change
+  - average change -> average speed
 - Limits
+  - easy limits
+  - hard limits
+  - left-hand limit
+  - right-hand limit
 - Continuity
 
 ## 1.Rate of Change

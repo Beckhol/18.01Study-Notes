@@ -1,11 +1,8 @@
-# CS Notes
-整个仓库就是我学习CS一条PATH和自己的个人笔记与心得
-
-## MIT18.01:Single Variable Calculus Notes
+# MIT18.01:Single Variable Calculus Notes
 
 这里是关于学习MIT18.01这门课程过程中的一些随笔.
 
-### Syllabus
+## Syllabus
 
 1. Differentiation
    - [Part A : Definition and basic rules](https://github.com/Beckhol/MIT18.01-Single-variable-calculus-Notes/tree/main/Differentiation/Part%20A%20:%20Definition%20And%20Basic%20Rules)

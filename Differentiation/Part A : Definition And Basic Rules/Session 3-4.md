@@ -71,4 +71,4 @@ A function is continuous at $x_0$ has the following properties:
 - $f(x_0)$ is defined
 - $\lim x \to x_0^+ f(x) = \lim x \to x_0^- f(x) = f(x_0)$
 
-when you calculating $\lim x \to x_0 f(x)$, you never allow x to equal to x~0~ 
+when you calculating $\lim x \to x_0 f(x)$, you never allow x to equal to $x_0$

@@ -6,7 +6,7 @@
 
 A Jump Discontinuity occurs when the **right-hand and left-hand limits exist but are not equal.**
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220715101410253.png" alt="image-20220715101410253" style="zoom:70%;" />
+<img src="image-20220715101410253.png" alt="image-20220715101410253" style="zoom:70%;" />
 
 The graph above is an example of function:
 
@@ -16,7 +16,7 @@ For x > 0, $\lim x \to 0 f(x) = 1$,but $f(0) = 0$ (One can also say, $f$ is cont
 
 Another examole in which $\lim x \to x_0^+$ exist, and $\lim x \to x_0^-$ also exists, but they are **NOT equal.**
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220715101939448.png" alt="image-20220715101939448" style="zoom:67%;" />
+<img src="image-20220715101939448.png" alt="image-20220715101939448" style="zoom:67%;" />
 
 ## Remove discontinuity
 
@@ -24,7 +24,7 @@ At a *removable* discontinuity, **the left-hand and right-hand limits are equal 
 
 ​												$\lim x \to x_0^+ = \lim x \to x_0^- \ne f(x_0)$
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220715102326264.png" alt="image-20220715102326264" style="zoom:67%;" />
+<img src="image-20220715102326264.png" alt="image-20220715102326264" style="zoom:67%;" />
 
 For example, $g(x) = \frac{sin(x)}{x}$  and $f(x) = \frac{1-cos(x)}{x}$ are defined for $x \ne 0$, but both functions have removable discontinuities. This is not obvious at all, but we will learn later:
 
@@ -34,7 +34,7 @@ For example, $g(x) = \frac{sin(x)}{x}$  and $f(x) = \frac{1-cos(x)}{x}$ are defi
 
 In an *infinite* discontinuity, **the left- and right-hand limits are infinite**; they may be both positive, both negative or one positive, one negative.
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220715103017567.png" alt="image-20220715103017567" style="zoom:67%;" />
+<img src="image-20220715103017567.png" alt="image-20220715103017567" style="zoom:67%;" />
 
 From the graph above, we see that $\lim x \to 0^+ \frac{1}{x} = \infty$ and $\lim x \to 0^- \frac{1}{x} = -\infty$. 
 

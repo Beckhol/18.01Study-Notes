@@ -59,13 +59,7 @@ Prove:
 ​		This is the same thing as saying that the function is continuous, bucause to prove that a 				function was continuous we'd show that $\lim x \to x_0 f(x) = f(x_0)$ 
 
 - We prove $\lim x \to x_0 f(x) - f(x_0) = 0$  by multiplying and dividing it by the same number, this won't change its value
-  $$
-  \begin{align}
-   \lim x \to x_0 f(x) - f(x_0) &= \lim x \to x_0 \frac{f(x)-f(x_0)}{x-x_0)}(x-x_0)
-                              \\&= f'(x) \times0
-                              \\&= 0
-  \end{align}
-  $$
+<img src="Xnip2022-07-15_11-13-16.jpg" alt="Xnip2022-07-15_11-13-16.jpg" style="zoom:70%;" />
 
 - Although $x$ gets closer and closer to $x_0$ , it never actually equals $x_0$ , and so we never quite divide by 0. That's what limits are for; $x-x_0$ may be small, but it's always non-zero.
 - So this calculation is valid, it's true that $\lim x \to x_0 f(x) - f(x_0) = 0$ , and it's true that differentiable functions are continuous. 

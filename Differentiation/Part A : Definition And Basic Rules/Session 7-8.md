@@ -40,9 +40,9 @@ $\frac{d}{dx} cosx = -sinx$
 
 ## Limits of $sinx$
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220715173336255.png" alt="image-20220715173336255" style="zoom:67%;" />
+<img src="image-20220715173336255.png" alt="image-20220715173336255" style="zoom:67%;" />
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220715173346277.png" alt="image-20220715173346277" style="zoom:67%;" />
+<img src="image-20220715173346277.png" alt="image-20220715173346277" style="zoom:67%;" />
 
 $\lim x \to 0 \frac{sin(x)}{x} = 1$
 
@@ -50,9 +50,9 @@ When the angle becomes smaller and smaller, the arc length is closer and closer 
 
 ## Limits of $(1-cos(x)/x)$
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220715173635582.png" alt="image-20220715173635582" style="zoom:67%;" />
+<img src="image-20220715173635582.png" alt="image-20220715173635582" style="zoom:67%;" />
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220715173651794.png" alt="image-20220715173651794" style="zoom:67%;" />
+<img src="image-20220715173651794.png" alt="image-20220715173651794" style="zoom:67%;" />
 
 $\lim \theta \to 0 \frac{1-cosx}{\theta} = 0$
 

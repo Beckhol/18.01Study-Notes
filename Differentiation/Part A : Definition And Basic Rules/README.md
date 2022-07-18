@@ -11,4 +11,14 @@
 ## [Session 7&8](https://github.com/Beckhol/CS-Notes-18.01-Single-Variable-Calculus/blob/main/Differentiation/Part%20A%20:%20Definition%20And%20Basic%20Rules/Session%207-8.md)    
 [Session 7: Derivatives of Sine and Cosine] The sine and cosine functions are used to describe periodic phenomena such as sound, temperature and tides. Trying to differentiate these functions leaves us with two limits to investigate further.  
 [Session 8: Limits of Sine and Cosine] When we tried to differentiate the sine and cosine functions we were left with two limits to calculate. In this session Professor Jerison calculates these limits, taking a close look at the unit circle and applying some fundamental ideas from linear approximation.  
+## [Session 9&10&11&12](https://github.com/Beckhol/CS-Notes-18.01-Single-Variable-Calculus/blob/main/Differentiation/Part%20A%20:%20Definition%20And%20Basic%20Rules/Session%209-10.md)  
+[Session 9: Product Rule] In this session we apply the main formula to a product of two functions. The result is a rule for writing the derivative of a product in terms of the factors and their derivatives.  
+[Session 10: Quotient Rule] This session develops a formula for the derivative of a quotient. We use this to find the derivative of the multiplicative inverse of a function and so of x^{-n}.  
+[Session 11: Chain Rule] We know how to take derivatives of sums, products and quotients of functions. In this session we discover the derivative of a composition of functions.  
+[Session 12: Higher Derivatives] The derivative of a function is another function. We can, and sometimes do, take the derivative of the derivative. Once we’ve done that, we can take the derivative again!  
+
+
+
+
+
 

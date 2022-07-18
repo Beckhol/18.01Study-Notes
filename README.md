@@ -5,7 +5,7 @@
 ## Syllabus
 
 1. Differentiation
-   - [Part A : Definition and basic rules](https://github.com/Beckhol/MIT18.01-Single-variable-calculus-Notes/tree/main/Differentiation/Part%20A%20:%20Definition%20And%20Basic%20Rules)
+   - [Part A : Definition and basic rules](https://github.com/Beckhol/MIT18.01-Single-variable-calculus-Notes/tree/main/Differentiation/Part%20A%20:%20Definition%20And%20Basic%20Rules) ✅
    - Part B : Implicit differentiation and inverse function
    - Exam 1
 2. Application Of Differentiation

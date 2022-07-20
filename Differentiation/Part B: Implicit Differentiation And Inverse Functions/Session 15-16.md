@@ -31,7 +31,7 @@ tany &= x \\
 \end{align}
 $$
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220720143103444.png" alt="image-20220720143103444" style="zoom:67%;" />
+<img src="image-20220720143103444.png" alt="image-20220720143103444" style="zoom:67%;" />
 
 In this triangle, $tan(y) = x$ so $y = arctan(x)$ , $h = \sqrt{1+x^2}$
 

@@ -12,25 +12,7 @@ In general, we look for functions $y = f(x)$ and $g(y) = x$ for which $g(f(x)) =
 
 ## Derivative of $arctan(x)$
 
-$$
-\begin{align}
-y & = tan^{-1}(x)
-\\ tan y &= tan(tan^{-1}x)
-\\ tan y &= x
-\end{align}
-$$
-
-$$
-\begin{align}
-tany &= x \\
-\frac{d}{dx}(tan(y)) &= \frac{d}{dx}(x) \\
-(Chain Rule) \frac{d}{dy}(tan(y)) \frac{dy}{dx} &= 1 \\
-\frac{1}{cos^2(y)} \frac{dy}{dx} &= 1 \\
-\frac{dy}{dx} &= cos^2(y)
-
-\end{align}
-$$
-
+<img src="Xnip2022-07-20_14-41-48.jpg" alt="Xnip2022-07-20_14-41-48.jpg" style="zoom:67%;" />
 <img src="image-20220720143103444.png" alt="image-20220720143103444" style="zoom:67%;" />
 
 In this triangle, $tan(y) = x$ so $y = arctan(x)$ , $h = \sqrt{1+x^2}$

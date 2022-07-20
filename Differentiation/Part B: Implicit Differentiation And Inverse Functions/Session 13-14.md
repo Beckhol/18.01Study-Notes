@@ -2,7 +2,7 @@
 
 ## Implicit Differentiation(Rational Exponent Rule)
 
-<img src="/Users/beckhol/Library/Application Support/typora-user-images/image-20220720125800681.png" alt="image-20220720125800681" style="zoom:67%;" />
+<img src="image-20220720125800681.png" alt="image-20220720125800681" style="zoom:67%;" />
 
 ## Slope of a line tagent to a circle 
 

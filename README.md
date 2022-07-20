@@ -6,7 +6,7 @@
 
 1. Differentiation
    - [Part A : Definition and basic rules](https://github.com/Beckhol/MIT18.01-Single-variable-calculus-Notes/tree/main/Differentiation/Part%20A%20:%20Definition%20And%20Basic%20Rules) ✅
-   - Part B : Implicit differentiation and inverse function
+   - [Part B : Implicit differentiation and inverse function](https://github.com/Beckhol/CS-Notes-18.01-Single-Variable-Calculus/tree/main/Differentiation/Part%20B:%20Implicit%20Differentiation%20And%20Inverse%20Functions)
    - Exam 1
 2. Application Of Differentiation
    - Part A : Approximation and curve sketching
